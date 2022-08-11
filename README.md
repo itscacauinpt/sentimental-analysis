@@ -1,1 +1,2 @@
-# sentimental-analysis
+# A Sentimental Analysis
+## !! Em desenvolvimento !!
