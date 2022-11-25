@@ -1,6 +1,6 @@
 :exclamation::warning: Readme em construção :warning::exclamation:
 
-<img align="right" src="./app/frontend/public/imagens/cvr.svg" alt="pixel by bagda" width="120px">
+<img align="right" src="./app/frontend/public/imagens/cvr.svg" alt="pixel by bagda" width="250px">
 
 # Sentimental Analysis
 
