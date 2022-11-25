@@ -1,10 +1,11 @@
 {
   "name": "sentimental-analysis",
   "version": "1.0.0",
-  "description": "Web application for sentimental analysis.",
+  "description": "An attempt of a sentimental analysis.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prepapp": "(cd ./app/frontend && npm install && npm start)",
+    "start": "(cd ./app/frontend && npm start)"
   },
   "author": "itscacauinpt",
   "license": "ISC"
