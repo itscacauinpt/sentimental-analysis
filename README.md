@@ -1,8 +1,6 @@
 :exclamation::warning: Readme em construção :warning::exclamation:
 
-<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/a03f57136217379.61f57b77485ee.jpg" alt="pixel by bagda" width="120px">
-<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c75d84136217379.61f57b7745e44.jpg" alt="pixel by bagda" width="120px"">
-<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/0d7c7f136217379.61f59414cd839.png" alt="pixel by bagda" width="120px">
+<img align="right" src="./app/frontend/public/imagens/cvr.svg" alt="pixel by bagda" width="120px">
 
 # Sentimental Analysis
 
